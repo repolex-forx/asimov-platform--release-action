@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "asimov-platform",
+  "repo": "release-action",
+  "versions": [
+    {
+      "commit": "157e0dbc95391337ec19cac52cfba0ff21658da4",
+      "parsed_at": "2026-04-03T01:06:39.637753+00:00",
+      "tag": "v1",
+      "filetree": "filetree/157e0dbc95391337ec19cac52cfba0ff21658da4.nq.gz",
+      "blobs": [
+        "blob/fdddb29aa445bf3d6a5d843d6dd77e10a9f99657.nq.gz",
+        "blob/9d29c354d3319f092e94a81b88b31bffcd4795ab.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
