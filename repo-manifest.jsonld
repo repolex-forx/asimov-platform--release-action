@@ -22,8 +22,9 @@
     {
       "@id": "https://repolex.ai/r/asimov-platform/release-action/commit/a042943419c2a2b28351ede095dc504427503d28",
       "git:hexsha": "a042943419c2a2b28351ede095dc504427503d28",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v3"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v3",
+      "repolex:parsedAt": "2026-04-03T01:17:04.340441+00:00"
     }
   ]
 }
