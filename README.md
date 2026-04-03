@@ -37,20 +37,24 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 ```
 .
 ├── blob
+│   ├── 01bed1efc6bb2c0b74bfd473bd116db15998b457.nq.gz
+│   ├── 43f7cf47c1d1ef8f7a1d978c1513e8e8fee7a174.nq.gz
 │   ├── 9d29c354d3319f092e94a81b88b31bffcd4795ab.nq.gz
+│   ├── ddcd25b37416fb7d61eacca0a8e22b3b424efe92.nq.gz
 │   └── fdddb29aa445bf3d6a5d843d6dd77e10a9f99657.nq.gz
 ├── branch
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
 ├── filetree
-│   └── 157e0dbc95391337ec19cac52cfba0ff21658da4.nq.gz
+│   ├── 157e0dbc95391337ec19cac52cfba0ff21658da4.nq.gz
+│   └── fea1258d7130700555f33d49f7dbf91a92c8648c.nq.gz
 ├── pr
 │   └── pr.nq.gz
 └── tag
     └── tag.nq.gz
 
-7 directories, 7 files
+7 directories, 11 files
 ```
 
 | Directory | What it contains |
